@@ -1,0 +1,27 @@
+.nav{
+    height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+    padding: 150px;
+    
+    margin: 0;
+    color: white;
+    background-color: gray;
+    
+    .heading{
+        margin-top: -150px;
+        background-size: 100px;
+    }
+    .Box{
+        color: white;
+    }
+}
+.nav .BOX:hover{
+    color: white;
+    background-color: blue;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
